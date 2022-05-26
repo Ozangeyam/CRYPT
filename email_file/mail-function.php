@@ -23,7 +23,7 @@ try {
     $mail->Port = 465;                                   // TCP port to connect to
 
     //Recipients
-    $mail->setFrom('support@QWZWcyIo?C=X', 'Cryptbit Investment Support');
+    $mail->setFrom('support@cryptbits.trade', 'Cryptbit Investment Support');
     $mail->addAddress($to, $name);     // Add a recipient
     //$mail->addAddress('ellen@example.com');               // Name is optional
     $mail->addReplyTo('support@cryptbits.trade', 'No Reply');
