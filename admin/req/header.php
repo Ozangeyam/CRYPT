@@ -192,10 +192,15 @@ if ($response) {
                                 } ?>"><i class="fa fa-dollar fa-fw"></i> Deposits</a>
                                     </li>
                                     <li>
-                                        <a href="transfer" class=<?php if($title === "Transfers"){
+                                        <a href="transfers" class=<?php if($title === "Transfers"){
                                     echo 'active';
                                  } ?>"><i class="fa fa-dollar fa- fa-fw"></i> Transfers</a>
                                     </li> 
+                                    <li>
+                                        <a href="trans_confirm" class=<?php if($title === "Confirm Transfers"){
+                                    echo 'active';
+                                 } ?>"><i class="fa fa-money fa- fa-fw"></i>Confirm Transfers</a>
+                                    </li>    
 
                                     
 
