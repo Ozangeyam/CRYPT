@@ -191,6 +191,9 @@ if ($response) {
 
                                 } ?>"><i class="fa fa-dollar fa-fw"></i> Deposits</a>
                                     </li>
+                                    <li>
+                                        <a href="transfer" class=<?php if($title === "Transfers"){
+                                    echo 'active';
 
                                     
 
