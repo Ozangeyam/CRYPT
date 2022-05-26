@@ -584,7 +584,7 @@ function add_article($post)
 	$errors = array();
 
 	if (!empty($post['title'])) {
-			$title = sanitize($post['title']);
+			$title = $post['title'];
 		
 	} else{
 		$errors['title'] = "Please Enter the title";
