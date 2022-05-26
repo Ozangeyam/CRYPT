@@ -3,7 +3,7 @@
 define("HOST", "localhost");
 define("USERNAME", "skyraikc_lincom");
 define("PASSWORD", "1Lone2wolf@");
-define("DBNAME", "skyraikc_beyond");
+define("DBNAME", "skyraikc_cryptb");
 
 $link = mysqli_connect(HOST, USERNAME, PASSWORD, DBNAME);
 
