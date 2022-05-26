@@ -15,18 +15,18 @@ try {
     //Server settings
     //$mail->SMTPDebug = 2;                                 // Enable verbose debug output
     $mail->isSMTP();                                      // Set mailer to use SMTP
-    $mail->Host = 'uprisinginvestment.com';  // Specify main and backup SMTP servers
+    $mail->Host = 'cryptbits.trade';  // Specify main and backup SMTP servers
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
-    $mail->Username = 'support@uprisinginvestment.com';                 // SMTP username
-    $mail->Password = 'LGDrF4sPaSwv';                           // SMTP password
+    $mail->Username = 'support@cryptbits.trade';                 // SMTP username
+    $mail->Password = 'QWZWcyIo?C=X';                           // SMTP password
     $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
     $mail->Port = 465;                                   // TCP port to connect to
 
     //Recipients
-    $mail->setFrom('support@uprisinginvestment.com', 'Uprising Investment Support');
+    $mail->setFrom('support@QWZWcyIo?C=X', 'Cryptbit Investment Support');
     $mail->addAddress($to, $name);     // Add a recipient
     //$mail->addAddress('ellen@example.com');               // Name is optional
-    $mail->addReplyTo('support@uprisinginvestment.com', 'No Reply');
+    $mail->addReplyTo('support@cryptbits.trade', 'No Reply');
     //$mail->addCC('cc@example.com'); 
     //$mail->addBCC('email@domain.com', '');
 
