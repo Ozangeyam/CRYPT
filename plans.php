@@ -37,12 +37,12 @@
         $invsPlan = [$plan, $roi1, 1, 300, "$1,500"];
 
     $plan2 = 'SILVER';
-        $roi2 = 5;
-        $invsPlan2 = [$plan2, $roi2, 1, 1500, "$10000"];
+        $roi2 = 10;
+        $invsPlan2 = [$plan2, $roi2, 3, 1500, "$10000"];
 
     $plan3 = 'GOLD';
-        $roi3 = 7;
-        $invsPlan3 = [$plan3, $roi3, 1, 10000, "$45,000"];
+        $roi3 = 15;
+        $invsPlan3 = [$plan3, $roi3, 7, 10000, "$45,000"];
 
     $plan4 = 'PLATINUM';
         $roi4 = 10;
