@@ -28,19 +28,19 @@ switch ($user['plan']) {
         break;
 
     case 'SILVER':
-        $roi = 5;
-        $invPlan = [$user['plan'], $roi, 1, 1500, 10000];
+        $roi = 10;
+        $invPlan = [$user['plan'], $roi, 3, 1500, 10000];
         $height = "97px";
         break;
 
     case 'GOLD':
-        $roi = 7;
-        $invPlan = [$user['plan'], $roi, 1, 10000, 45000];
+        $roi = 15;
+        $invPlan = [$user['plan'], $roi, 7, 10000, 45000];
         break;
 
-    case 'PLATINUM':
-        $roi = 10;
-        $invPlan = [$user['plan'], $roi, 3, 45000, 150000];
+    case 'COMMUNITY':
+        $roi = 25;
+        $invPlan = [$user['plan'], $roi, 14, 45000, 150000];
         break;
     
     default:
@@ -190,6 +190,12 @@ switch ($user['plan']) {
                                     echo 'active';
 
                                 } ?>"><i class="fa fa-users fa-fw"></i> Referral</a>
+                            </li>
+                            <li>
+                                <a href="partners" class="<?php if($title === "Partners"){
+                                    echo 'active';
+
+                                } ?>"><i class="fa fa-users fa-fw"></i> Partners</a>
                             </li>
 
                             <li>
