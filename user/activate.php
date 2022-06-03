@@ -98,13 +98,13 @@ if (!empty($_GET['actc'])) {
 and specially designed whale trading bots to tap into the global economic market with the sole aim of maximizing profit. With its informative
 tentacles spread across industries such as; insurance sector, minning sector, oil and gas (natural and biogas) industry, pharmaceutical industry
 (herbal and supplements),government agencies and information technology, Cryptbits Capital provides its investors with quality asset and financial services.</p>
-<p>TAKE THE TOUR by simply clicking on <a href='www.Cryptbits.trade'>www.Cryptbits.trade</a> to login to your account and explore Cryptbits.</p>
+<p>TAKE THE TOUR by simply clicking on <a href='www.cryptbits.trade'>www.cryptbits.trade</a> to login to your account and explore Cryptbits.</p>
 <p>- Navigate across your dashbpoard and check out our investment packages.</p>
 <p>- Make a deposit and select an investment package.</p>
 <p>- Choose your prefered investment plan and start earning at once.</p>
 <p>Note: Be informed that transaction of bitcoin attracts higher charges than other crypto by your transaction network, this is not from Cryptbits.</p>
 <p>For more information,contact Cryptbits costumer care 24hrs live chat on the website or,
-send us an email at info@Cryptbits.trade.</p>
+send us an email at support@Cryptbits.trade.</p>
 <p>we hope to meet you at our next Cryptbits Capital convention.</p>
 <p>Happy Investing!!</p>
               </td>
