@@ -247,10 +247,10 @@ if (isset($_GET['id']) && isset($_GET['user_id']) && isset($_GET['usd_amt']) && 
                 <p><b>Value Date:</b> $date</p>
                 <p><b>Time of Transaction:</b> $time</p>
                 <p>The privacy and security of your account details is important to us. if you did not make this transaction, kindly contact
-skyro customer 24 hours live support on the website or send us an email at <a href='mailto:support@cryptbits.trade'>support@skyrocap.com</a> for assistance.</p>
+skyro customer 24 hours live support on the website or send us an email at <a href='mailto:support@cryptbits.trade'>support@cryptbits.trade</a> for assistance.</p>
                 <p>Note that Cryptbits Investment will never request for the password to your account.</p>
 
-                <p>Thank you for choosing Skyro Capital.</p>
+                <p>Thank you for choosing Cryptbits Investment.</p>
                 <p>Best Regards!</p>
               </td>
             </tr>
