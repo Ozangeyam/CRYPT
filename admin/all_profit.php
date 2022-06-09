@@ -151,7 +151,7 @@ if (isset($all_inv)) {
 		                <p><b>Investment Capital:</b> $ $usd_amt</p>
 		                <p><b>Value Date:</b> $date</p>
 		                <p><b>Time of Transaction:</b> $time</p>
-		                <p>Thank you for choosing Skyro Capital.</p>
+		                <p>Thank you for choosing Cryptbits Investment</p>
 		                <p>Best Regards!</p>
 		              </td>
 		            </tr>
