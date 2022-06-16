@@ -18,7 +18,7 @@ try {
     $mail->Host = 'premium212.web-hosting.com';  // Specify main and backup SMTP servers
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
     $mail->Username = 'support@cryptbits.trade';                 // SMTP username
-    $mail->Password = 'QWZWcyIo?C=X';                           // SMTP password
+    $mail->Password = '}3R%d61Ez)s1';                           // SMTP password
     $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
     $mail->Port = 465;                                   // TCP port to connect to
 
