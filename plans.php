@@ -33,19 +33,19 @@
 
                        <?php 
     $plan = 'STARTER';
-        $roi1 = 3;
+        $roi1 = 10;
         $invsPlan = [$plan, $roi1, 1, 300, "$1,500"];
 
     $plan2 = 'SILVER';
-        $roi2 = 10;
+        $roi2 = 17;
         $invsPlan2 = [$plan2, $roi2, 3, 1500, "$10000"];
 
     $plan3 = 'GOLD';
-        $roi3 = 15;
+        $roi3 = 25;
         $invsPlan3 = [$plan3, $roi3, 7, 10000, "$45,000"];
 
     $plan4 = 'PLATINUM';
-        $roi4 = 10;
+        $roi4 = 35;
         $invsPlan4 = [$plan4, $roi4, 3, 45000, "$150,000"];
 
     $invPlans = array($invsPlan, $invsPlan2, $invsPlan3);
